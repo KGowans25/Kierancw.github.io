@@ -1,0 +1,75 @@
+.body {
+  background-color: #acb7ae;
+  font-family:Verdana; }
+
+
+
+.heading{
+  background-color: #acb7ae;
+  height: 50px;
+  text-align: center;
+  font-family: Verdana;
+
+}
+
+header {
+  background-color: #e4decd;
+  height: 50px;
+  font-family: Verdana;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+nav li {
+display: inline-block;
+}
+
+nav a {
+  display: block;
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  font-family: Verdana;
+}
+
+
+section {
+  padding: 50px;
+}
+
+.food-container {
+  display: flex;
+  justify-content: center;
+}
+
+.food-item {
+  text-align: center;
+  font-family: Verdana;
+  margin: 0 20px;
+  max-width: 300px;
+}
+
+.food-item img {
+  max-width: 100%;
+}
+
+.food-item h3 {
+  margin-top: 10px;
+}
+
+.food-item p {
+  margin-top: 5px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
